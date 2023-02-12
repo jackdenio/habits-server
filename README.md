@@ -4,7 +4,7 @@
 
 ### This system consists of a daily habits control system
 
-### ⏳Loading server
+### ⏳ Loading server
 
 
 ## 🚀 Technologies
@@ -13,5 +13,6 @@
  - Typescript
  - Fastify
  - Prisma
+ - MySQL
 
 
