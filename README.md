@@ -12,6 +12,8 @@
  - Node JS
  - Typescript
  - Fastify
+ - Zod
+ - JWT
  - Prisma
  - MySQL
 
