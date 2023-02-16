@@ -13,6 +13,7 @@
     "@fastify/cors": "^8.2.0",
     "@fastify/jwt": "^6.5.0",
     "@prisma/client": "^4.10.1",
+    "dayjs": "^1.11.7",
     "fastify": "^4.13.0",
     "node-fetch": "^3.3.0",
     "prisma": "^4.10.1",
